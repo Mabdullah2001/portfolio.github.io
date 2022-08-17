@@ -36,6 +36,7 @@
 
 .info {
     /* height: 20; */
+    padding: 20px 0;
     width: 84vw;
     background-color: #ccc;
     margin: 144px auto;
